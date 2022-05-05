@@ -1,5 +1,5 @@
 # About AES256-ECB API
-This is an API for encrypt and decrypt messages with using AES256 (ECB Mode).
+This is an API for encrypting and decrypting messages with using AES256 (ECB Mode).
 
 The API is implemented by Springboot 2.6.7 with Java 8.
 
